@@ -30,6 +30,7 @@ Configuring Arduino IDE
  +Add board ESP8266
 - Step 1: File -> Preferences -> Additional Boards Manager URLs: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 - Step 2: Tools -> Board -> Boards Manager -> Search and install: esp8266
- Installing library for programming firebase API
+
+ +Installing library for programming firebase API
 - Sketch -> Include Library -> Add .Zip Library -> Add: Firebase ESP8266 Client
 - Sketch -> Include Library -> Manage Libraries -> Search and install: ArduinoJson
